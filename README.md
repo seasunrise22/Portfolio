@@ -25,7 +25,7 @@
  - Avoid Eagle - 독수리 피하기 게임
  
 ***Web***
-- Mini Games Web - 미니게임 웹사이트(jsp)
+- Mini Games Web - 미니게임 웹사이트(JSP)
 - php_My Portfolio Web - 포트폴리오 웹사이트(php)
 
 ***JavaSwing***
