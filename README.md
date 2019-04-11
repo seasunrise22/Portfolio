@@ -16,9 +16,9 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***Android***
-- RunTurtle
-- YourSentence
-- Be patient!
+- RunTurtle - 종합 운동관리
+- YourSentence - 잠금화면 메모
+- Be patient! - 화면켜짐 카운터
 
 ***Unity***
  - WANTED
