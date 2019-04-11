@@ -16,18 +16,18 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***Android***
-- Run Turtle - 종합 운동관리
-- Your Sentence - 잠금화면 메모
-- Be Patient - 화면켜짐 카운터
+- Run Turtle - 종합 운동관리 앱
+- Your Sentence - 잠금화면 메모 앱
+- Be Patient - 화면켜짐 카운터 앱
 
 ***Unity***
- - WANTED
- - Avoid Eagle
+ - WANTED - 카드 배틀 게임
+ - Avoid Eagle - 독수리 피하기 게임
  
 ***Web***
-- Mini Games Web
-- My Portfolio Web
+- Mini Games Web - 미니게임 웹사이트
+- My Portfolio Web - 포트폴리오 웹사이트
 
 ***JavaSwing***
-- 4Men's Bank
+- 4Men's Bank - 가상 은행
 ---
