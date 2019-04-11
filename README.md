@@ -11,7 +11,7 @@
 - Blog : https://seasunrise22.blogspot.com/
 
 ## Works
-그동안의 제 작업물입니다.
+그동안의 제 작업물들입니다.
 
 프로젝트 이름을 클릭하시면 해당 프로젝트의 Github repository로 이동합니다.  
 
