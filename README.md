@@ -16,7 +16,7 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***Android***
-1. 달려라 거북이
+1. RunTurtle
 2. YourSentence
 3. Be patient!
 2. Unity
