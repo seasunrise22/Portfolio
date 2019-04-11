@@ -6,6 +6,8 @@
 ## About me
 Name : 이해욱 Lee Haeuk
 
-Age : (2019년 기준) 30세 (만 28세)
+Age : 30 (만 28세, 2019년 4월 기준)
+
+College & Major : 경상대학교 컴퓨터 과학과 졸업 (2017년 8월) 
 
 
