@@ -16,7 +16,7 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***목차***
-1. 모두의 미니게임(JSP)
+1. 모두의 미니게임 - JSP
 2. WANTED(Unity)
 3. 4Men's Bank(JavaSwing)
 4. 달려라 거북이(Android)
