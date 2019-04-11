@@ -16,10 +16,10 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***Android***
-1. RunTurtle
-2. YourSentence
-3. Be patient!
-2. Unity
+- RunTurtle
+- YourSentence
+- Be patient!
+***Unity***
  - WANTED
  - 독수리 피하기!
 3. Web
