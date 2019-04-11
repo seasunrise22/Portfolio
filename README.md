@@ -16,10 +16,10 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***목차***
-1. Android
- - 달려라 거북이
- - YourSentence
- - Be patient!
+**Android**
+1. 달려라 거북이
+2. YourSentence
+3. Be patient!
 2. Unity
  - WANTED
  - 독수리 피하기!
