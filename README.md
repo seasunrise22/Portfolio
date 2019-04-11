@@ -17,15 +17,15 @@
 
 ***목차***
 - Android
- 1. 달려라 거북이
- 2. YourSentence
- 3. Be patient!
+  1. 달려라 거북이
+  2. YourSentence
+  3. Be patient!
 - Unity
- 1. WANTED
- 2. 독수리 피하기!
+  1. WANTED
+  2. 독수리 피하기!
 - Web
- 1. 모두의 미니게임
- 2. 포트폴리오 웹사이트
+  1. 모두의 미니게임
+  2. 포트폴리오 웹사이트
 - JavaSwing
- 1. 4Men's Bank
+  1. 4Men's Bank
 ---
