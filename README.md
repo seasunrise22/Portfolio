@@ -16,13 +16,13 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***목차***
-. 모두의 미니게임
-- WANTED
-- 4Men's Bank
-- 달려라 거북이
-- 포트폴리오 웹사이트
-- YourSentence
-- 독수리 피하기!
-- Be patient!
+1. 모두의 미니게임
+2. WANTED
+3. 4Men's Bank
+4. 달려라 거북이
+5. 포트폴리오 웹사이트
+6. YourSentence
+7. 독수리 피하기!
+8. Be patient!
 
 
