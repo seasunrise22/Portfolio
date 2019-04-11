@@ -18,7 +18,7 @@
 ***Android***
 - Run Turtle - 종합 운동관리
 - Your Sentence - 잠금화면 메모
-- Be patient - 화면켜짐 카운터
+- Be Patient - 화면켜짐 카운터
 
 ***Unity***
  - WANTED
