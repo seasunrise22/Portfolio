@@ -16,7 +16,7 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***Android***
-[Run Turtle](https://github.com/seasunrise22/android-RunTurtle){: target="_blank"} - 종합 운동관리 앱
+- [Run Turtle](https://github.com/seasunrise22/android-RunTurtle) - 종합 운동관리 앱 
 - Your Sentence - 잠금화면 메모 앱
 - Be Patient - 화면켜짐 카운터 앱
 
