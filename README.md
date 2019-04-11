@@ -16,12 +16,16 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 ***목차***
-1. 모두의 미니게임 - JSP
-2. WANTED(Unity)
-3. 4Men's Bank(JavaSwing)
-4. 달려라 거북이(Android)
-5. 포트폴리오 웹사이트(php)
-6. YourSentence(Android)
-7. 독수리 피하기!(Unity)
-8. Be patient!(Android)
+- Android
+ 1. 달려라 거북이
+ 2. YourSentence
+ 3. Be patient!
+- Unity
+ 1. WANTED
+ 2. 독수리 피하기!
+- Web
+ 1. 모두의 미니게임
+ 2. 포트폴리오 웹사이트
+- JavaSwing
+ 1. 4Men's Bank
 ---
