@@ -28,6 +28,6 @@
 - Mini-Games-Web - 미니게임 웹사이트 (JSP)
 - My-Portfolio-Web - 포트폴리오 웹사이트 (php)
 
-***JavaSwing***
-- 4Mens-Bank - 가상 은행
+***Window***
+- 4Mens-Bank - 가상 은행 (JavaSwing)
 ---
