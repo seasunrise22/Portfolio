@@ -21,7 +21,7 @@
 - [Be-Patient](https://github.com/seasunrise22/Be-Patient) - 화면켜짐 카운터 앱
 
 ***Unity***
- - WANTED - 카드 배틀 게임
+ - [WANTED](https://github.com/seasunrise22/WANTED) - 카드 배틀 게임
  - Avoid-Eagle - 독수리 피하기 게임
  
 ***Web***
