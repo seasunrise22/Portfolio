@@ -26,7 +26,3 @@
  
 ***Web***
 - My-Portfolio-Web - 포트폴리오 웹사이트 (php)
-
-***Window***
-- [4Mens-Bank](https://github.com/seasunrise22/4Mens-Bank) - 가상 은행 (JavaSwing)
----
