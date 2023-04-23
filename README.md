@@ -19,6 +19,8 @@
 > 2019년
 > ### Web
 > * [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (php)
+> ### Unity
+>  - [Avoid-Eagle](https://github.com/seasunrise22/Avoid-Eagle) - 독수리 피하기 게임
 
 > 2015년
 > ### Unity
@@ -29,9 +31,7 @@
 - [Your-Sentence](https://github.com/seasunrise22/Your-Sentence) - 잠금화면 메모 앱
 - [Be-Patient](https://github.com/seasunrise22/Be-Patient) - 화면켜짐 카운터 앱
 
-***Unity***
 
- - [Avoid-Eagle](https://github.com/seasunrise22/Avoid-Eagle) - 독수리 피하기 게임
  
 
 
