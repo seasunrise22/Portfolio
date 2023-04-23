@@ -13,7 +13,6 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다.  
 
 > 2023년
-
 > > Web
 - [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 웹개발 학습용 프로젝트 (vue2, express, mongodb)
 
