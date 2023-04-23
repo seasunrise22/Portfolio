@@ -21,8 +21,8 @@
 > * [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (php)
 
 > 2015년
-> > ### Unity
-> >  - [WANTED](https://github.com/seasunrise22/WANTED) - 카드 배틀 게임
+> ### Unity
+> * [WANTED](https://github.com/seasunrise22/WANTED) - 카드 배틀 게임
 
 ***Android***
 - [Run-Turtle](https://github.com/seasunrise22/android-RunTurtle) - 종합 운동관리 앱 
