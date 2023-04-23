@@ -14,17 +14,17 @@
 
 > 2023년
 > ### Web
-> 1. [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 웹개발 학습용 프로젝트 (vue2, express, mongodb)
+> * [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 웹개발 학습용 프로젝트 (vue2, express, mongodb)
 
 > 2019년
 > ### Web
-> 1. [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (php)
+> * [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (php)
 > ### Unity
-> 1. [Avoid-Eagle](https://github.com/seasunrise22/Avoid-Eagle) - 독수리 피하기 게임
+> * [Avoid-Eagle](https://github.com/seasunrise22/Avoid-Eagle) - 독수리 피하기 게임
 
 > 2015년
 > ### Unity
-> 1. [WANTED](https://github.com/seasunrise22/WANTED) - 카드 배틀 게임
+> * [WANTED](https://github.com/seasunrise22/WANTED) - 카드 배틀 게임
 
 ***Android***
 - [Run-Turtle](https://github.com/seasunrise22/android-RunTurtle) - 종합 운동관리 앱 
