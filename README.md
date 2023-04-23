@@ -25,4 +25,5 @@
  - [Avoid-Eagle](https://github.com/seasunrise22/Avoid-Eagle) - 독수리 피하기 게임
  
 ***Web***
-- [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - 포트폴리오 웹사이트 (php)
+- [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 웹개발 학습용 프로젝트 (vue2, express, mongodb)
+- [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (php)
