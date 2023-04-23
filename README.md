@@ -5,7 +5,7 @@
 
 ## About me
 - Name : 이해욱 (Lee Haeuk)
-- Age : 30 (만 28세, 2019년 4월 기준)
+- Date of birth : 1990.10.22 (만 32세)
 - College & Major : 경상대학교 컴퓨터과학과 졸업 (2017년 8월) 
 - Email : seasunrise22@naver.com
 - Blog : https://seasunrise22.blogspot.com/
