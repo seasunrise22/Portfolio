@@ -12,6 +12,7 @@
 > 2023년
 > #### Web
 > * [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 웹개발 학습용 프로젝트 (vue2, express, mongodb)
+> * [ukcha_spring](https://github.com/seasunrise22/ukcha_spring) 스프링 프레임워크 학습용 프로젝트 (java-spring, mysql)
 ***
 > 2021년
 > #### Unity
