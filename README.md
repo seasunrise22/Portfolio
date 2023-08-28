@@ -10,7 +10,7 @@
 
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다. 
 > Node.js
-> * [NodeBoard-for-learn](https://github.com/seasunrise22/NodeBoard-for-learn) - Node.js로 만든 게시판 (Node.js, Express, Nunjucks, MySQL)
+> * [NodeBasicWeb-for-learn](https://github.com/seasunrise22/NodeBasicWeb-for-learn) - Node.js 학습용 프로젝트 (Node.js, Express, Nunjucks, MySQL)
 > * [NodeChat-for-learn](https://github.com/seasunrise22/NodeChat-for-learn) - Node.js로 만든 실시간 채팅앱 (Node.js, Express, Nunjucks, MySQL)
 > * [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 뷰(Vue) 학습용 프로젝트 (vue2, express, mongodb)
 ***
