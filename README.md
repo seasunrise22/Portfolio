@@ -12,7 +12,7 @@
 > Node.js
 > * [NodeBasicWeb-for-learn](https://github.com/seasunrise22/NodeBasicWeb-for-learn) - Node.js 학습용 프로젝트 (Node.js, Express, Nunjucks, MySQL)
 > * [NodeChat-for-learn](https://github.com/seasunrise22/NodeChat-for-learn) - Node.js로 만든 실시간 채팅앱 (Node.js, Express, Nunjucks, MySQL)
-> * [CRUD Learning project](https://github.com/seasunrise22/vue2-mongodb-practice) - 뷰(Vue) 학습용 프로젝트 (vue2, express, mongodb)
+> * [vue2-mongodb-practice](https://github.com/seasunrise22/vue2-mongodb-practice) - 뷰(Vue) 학습용 프로젝트 (vue2, express, mongodb)
 ***
 > 기타 Web
 > * [ukcha_spring](https://github.com/seasunrise22/ukcha_spring) - 스프링 프레임워크 학습용 프로젝트 (java-spring, mysql)
