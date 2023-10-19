@@ -1,13 +1,17 @@
-## Introduction
+## 목차
+- [소개](#소개)
+- [프로필](#프로필)
+- [작업물](#작업물)
+## 소개
 프로그래밍을 좋아하는 이해욱입니다.
-## Profile
+## 프로필
 - Name : 이해욱 Lee Haeuk
 - Year of birth : 1990년생
 - College & Major : 경상대학교 컴퓨터과학과(4년) 졸업
 - Certifications : 정보처리기사
 - TOEIC Score : 700점
 - Email : seasunrise22@naver.com
-## Works
+## 작업물
 그동안의 제 작업물들입니다.
 
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다. 
