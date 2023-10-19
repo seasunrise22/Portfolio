@@ -3,7 +3,7 @@
 - [프로필](#프로필)
 - [작업물](#작업물)
   - [Node.js](#Node.js)
-  - [Spring framework](#Spring framework)
+  - [Spring framework](#Spring)
   - [PHP](#PHP)
   - [Unity](#Unity)
   - [Android](#Android)
