@@ -3,7 +3,9 @@
 ## About me
 - Name : 이해욱 (Lee Haeuk)
 - Year of birth : 1990년생
-- College & Major : 경상대학교 컴퓨터과학과(4년) 졸업 
+- College & Major : 경상대학교 컴퓨터과학과(4년) 졸업
+- Certifications : 정보처리기사
+- TOEIC Score : 700점
 - Email : seasunrise22@naver.com
 ## Works
 그동안의 제 작업물들입니다.
