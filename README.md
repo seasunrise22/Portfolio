@@ -1,7 +1,7 @@
 ## Introduction
 프로그래밍을 좋아하는 이해욱입니다.
 ## Profile
-- Name : 이해욱 (Lee Haeuk)
+- Name : 이해욱 Lee Haeuk
 - Year of birth : 1990년생
 - College & Major : 경상대학교 컴퓨터과학과(4년) 졸업
 - Certifications : 정보처리기사
