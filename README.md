@@ -1,8 +1,8 @@
-## Contents
-- [Introduction](#Introduction)
+## 목차
+- [소개](#소개)
 - [프로필](#프로필)
 - [작업물](#작업물)
-## Introduction
+## 소개
 프로그래밍을 좋아하는 이해욱입니다.
 ## 프로필
 - Name : 이해욱 Lee Haeuk
