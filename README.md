@@ -28,7 +28,7 @@
 * [vue2-mongodb-practice](https://github.com/seasunrise22/vue2-mongodb-practice) - 뷰(Vue.js) 학습용 프로젝트 (게시판, 회원가입, 로그인)
 * [NodeChat-for-learn](https://github.com/seasunrise22/NodeChat-for-learn) - Node.js로 만든 실시간 채팅앱
 #### Spring framework
-* [spring_crud_study](https://github.com/seasunrise22/spring_crud_study) - 스프링 프레임워크 학습용 프로젝트 (게시판)
+* [spring_crud_study](https://github.com/seasunrise22/spring_crud_study) - 스프링 프레임워크 학습용 프로젝트 (게시판 CRUD, 댓글)
 #### PHP
 * [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (회원가입, 로그인, 동적 페이지 전환)
 #### Unity
