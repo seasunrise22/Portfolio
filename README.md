@@ -25,8 +25,7 @@
 프로젝트 이름을 클릭하시면 해당하는 Github Repository로 이동합니다. 
 #### Node.js
 * [NodeBoardTwit-for-learn](https://github.com/seasunrise22/NodeBoardTwit-for-learn) - Node.js 학습용 프로젝트 (게시판, 짧은 글 게시, 회원가입, 로그인)
-* [vue2-mongodb-practice](https://github.com/seasunrise22/vue2-mongodb-practice) - 뷰(Vue.js) 학습용 프로젝트 (게시판, 회원가입, 로그인)
-* [NodeChat-for-learn](https://github.com/seasunrise22/NodeChat-for-learn) - Node.js로 만든 실시간 채팅앱
+* [Vue2-Mongodb-for-learn](https://github.com/seasunrise22/Vue2-Mongodb-for-learn) - 뷰(Vue.js) 학습용 프로젝트 (게시판, 회원가입, 로그인)
 #### Spring framework
 * [spring_crud_study](https://github.com/seasunrise22/spring_crud_study) - 스프링 프레임워크 학습용 프로젝트 (게시판 CRUD, 댓글)
 #### PHP
