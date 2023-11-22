@@ -29,7 +29,7 @@
 #### Spring framework
 * [Spring-CRUD-Study](https://github.com/seasunrise22/Spring-CRUD-Study/tree/master) - 스프링 프레임워크 학습용 프로젝트 (게시판 CRUD, 댓글)
 #### PHP
-* [My-Portfolio-Web](https://github.com/seasunrise22/My-Portfolio-Web) - (구)포트폴리오 웹사이트 (회원가입, 로그인, 동적 페이지 전환)
+* [My-Portfolio-PHP](https://github.com/seasunrise22/My-Portfolio-PHP) - (구)포트폴리오 웹사이트 (회원가입, 로그인, 동적 페이지 전환)
 #### Unity
 * [LeeFPS](https://github.com/seasunrise22/LeeFPS) - 상자 부수기 FPS 게임
 * [2DFightingGame-for-UnityPractice](https://github.com/seasunrise22/2DFightingGame-for-UnityPractice) - 2D 격투게임
