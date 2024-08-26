@@ -18,7 +18,7 @@ IT분야는 끊임없이 배워야 하는 분야라고 생각하고, 저는 배�
 - College & Major : 경상대학교 컴퓨터과학과(4년) 졸업
 - Certifications : 정보처리기사 (취득일: 2016. 07. 15)
 - TOEIC Score : 700점 (취득일: 2023. 09. 07)
-- Email : seasunrise22@naver.com
+- Email : haeuk1212@gmail.com
 ## 작업물
 그동안의 제 작업물들입니다.
 
